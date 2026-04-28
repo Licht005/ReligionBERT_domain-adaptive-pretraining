@@ -1,1 +1,1 @@
-# ReligionBERT-domain-adaptive-pretraining-DAPT-
+# ReligionBERT domain adaptive pretraining(DAPT)
